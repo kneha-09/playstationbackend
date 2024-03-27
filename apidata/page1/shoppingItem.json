@@ -1,0 +1,182 @@
+[
+    {    "shoppingCategoryId":1,
+         "products":[{
+            "productId":"1",
+            "productName":"Bend Studio 30th Anniversary Poster",
+            "productImg":"https://i.ibb.co/tL5xd4T/collectible1.jpg",
+            "productPrise":"3400",
+            "productRate":"3.8",
+            "productDescription":"Celebrate 30 years with Bend Studio! This officially licensed exclusive poster by Oliver Barrett is a tribute to our games and characters throughout our journey. Including Syphon Filter, Resistance: Retribution, Uncharted: Golden Abyss, and Days Gone, this is a must-have for any fan of these titles. The unique design is grounded with the Bend touch displaying small Easter Eggs from our locale."
+        },
+        {
+            "productId":"2",
+            "productName":"Horizon Forbidden West Post Card Set",
+            "productImg":"https://i.ibb.co/6gbjZHL/collectible2.jpg",
+            "productPrise":"3600",
+            "productRate":"4.2",
+            "productDescription":"Enjoy breathtaking glimpses of the Forbidden West with this set of collectible postcards, featuring the beautiful art of Horizon Forbidden West!"  
+        },
+        {
+            "productId":"3",
+            "productName":"Sly Cooper 20th Anniversary Poster by Dev Madan",
+            "productImg":"https://i.ibb.co/YcgQ1vp/collectible3.jpg",
+            "productPrise":"3980",
+            "productRate":"3.9",
+            "productDescription":"Celebrate 20 years of Sly! This officially licensed exclusive poster by original Sly Cooper art director Dev Madan is a tribute to all things Sly Cooper, filled with characters and items celebrating the 20-year legacy of the iconic franchise. The design is a labor of love and absolutely packed with detail, with a plethora of references and Easter Eggs from the series. Can you find them all? Poster dimensions: 18 x 24 inches Poster material: print 4/0 100# Gloss Text Poster comes packed in rolled tube"  
+        },
+        {
+            "productId":"4",
+            "productName":"The Art of God of War Ragnarök Artbook",
+            "productImg":"https://i.ibb.co/sjrHzV2/collectible4.jpg",
+            "productPrise":"4700",
+            "productRate":"4.6",
+            "productDescription":"A full-color oversized hardcover volume that collects concept art and creative commentary chronicling the development of the next entry in the God of War saga. The god of war himself returns in this brand-new installment to the beloved God of War series. As the threat of Ragnarök grows ever closer, Kratos and Atreus find themselves choosing between the safety of their family and the safety of the realms. "  
+        },
+        {
+            "productId":"5",
+            "productName":"The Art of Horizon Forbidden West Artbook",
+            "productImg":"https://i.ibb.co/QrFS5Gb/collectible5.jpg",
+            "productPrise":"5350",
+            "productRate":"4.3",
+            "productDescription":"A dynamic full-color hardcover featuring concept art and creator commentary chronicling the development of the next adventure in the epic Horizon saga. Follow Aloy on her next adventure with this beautiful chronicle created by Dark Horse Books in association with Guerrilla Games! The Art of Horizon Forbidden West uncovers the mysteries of a lost world with all new behind-the-scenes artwork and intimate developer commentary. Relive the unforgettable tale of Horizon Forbidden West, one of the most highly anticipated titles for the next gen systems. "  
+        }
+    ]
+        
+
+    },
+    {    "shoppingCategoryId":2,
+         "products":[{
+            "productId":"1",
+            "productName":"PlayStation Pride Camper Hat",
+            "productImg":"https://i.ibb.co/mGCMWFt/hat1.jpg",
+            "productPrise":"3400",
+            "productRate":"3.8",
+            "productDescription":"Complete your look with the PlayStation Pride Camper Hat, a stylish and versatile accessory that showcases your love for gaming. This camper hat features the iconic PlayStation buttons across the front panel, adding a touch of gaming flair to your outfit. Made for comfort and durability, it's perfect for outdoor adventures and everyday wear, not to mention Pride celebrations all year round!"
+        },
+        {
+            "productId":"2",
+            "productName":"Horizon Forbidden West Patterned Hat",
+            "productImg":"https://i.ibb.co/XD9X3wC/hat2.jpg",
+            "productPrise":"3600",
+            "productRate":"4.2",
+            "productDescription":"Top off your look with this unique 7-panel quilted hat decorated with a Horizon Forbidden West patch on the front panel. Investigate a little closer and you'll uncover the special hidden pattern inside, featuring the masks of the Tenakth clans and Regalla’s rebels!"  
+        },
+        {
+            "productId":"3",
+            "productName":"Horizon Call of the Mountain Beanie",
+            "productImg":"https://i.ibb.co/4mfJLTD/hat3.jpg",
+            "productPrise":"3980",
+            "productRate":"3.9",
+            "productDescription":"This stylish beanie will keep your head warm even among the Sundom's frostiest peaks. Let everyone know you are a fan of Horizon Call of the Mountain with the special patch on the beanie's front."  
+        },
+        {
+            "productId":"4",
+            "productName":"The Last of Us Part II Carhartt Cap",
+            "productImg":"https://i.ibb.co/hDC1Kj0/hat4.jpg",
+            "productPrise":"4700",
+            "productRate":"4.6",
+            "productDescription":"Show off your favorite game with your new favorite hat! This Carhartt hat features an embroidered The Last of Us Part II logo on the front right panel. 100% cotton washed canvas Carhartt Force® sweatband fights odors; FastDry® technology wicks away sweat for comfort Lightly structured and mid profile with a pre-curved visor Adjustable fit with hook and loop closure"  
+        },
+        {
+            "productId":"5",
+            "productName":"PlayStation™ Symbols Hat",
+            "productImg":"https://i.ibb.co/TrfY7BY/hat5.jpg",
+            "productPrise":"5350",
+            "productRate":"4.3",
+            "productDescription":"The perfect accessory to any outfit, this hat may seem simple but has a trick up its sleeve: look under the bill to see an awesome PlayStation™ symbols pattern! Blue PlayStation™ logo embroidered on front panel"  
+        }
+    ]
+        
+
+    },
+    {    "shoppingCategoryId":3,
+         "products":[{
+            "productId":"1",
+            "productName":"Playstation DualSense Mug",
+            "productImg":"https://i.ibb.co/4NNxFCr/drinkable1.jpg",
+            "productPrise":"3260",
+            "productRate":"3.8",
+            "productDescription":"Hit pause and take a break from gaming with this PlayStation 5 Controller Shaped Mug. 11x15cm (4.3inch * 5.9inch) Ceramic Mug with Shaped Handle. The 480ml (16.9 fl oz) capacity white ceramic mug has a handle shaped in the style of the PlayStation 5's DualSense controller. It's perfect for keeping your favourite tea or coffee at your side while gaming or working. The PlayStation 5 Controller Shaped Mug has an instantly recognizable look and feel which gamers of all ages will loving using time and time again. "
+        },
+        {
+            "productId":"2",
+            "productName":"Horizon Call of the Mountain Camping Mug",
+            "productImg":"https://i.ibb.co/420mWDh/drinkable2.jpg",
+            "productPrise":"3670",
+            "productRate":"4.2",
+            "productDescription":"A warm drink can soften the cold of any mountaintop. This 13 oz. enamel mug is truly worthy of a Master Climber, decorated with the Mountains graphic on one side and the Horizon Call of the Mountain logo on the other, keeps your beverage nice and warm.13 oz.Single wall enamel mug18/8 stainless steel rimHand wash recommended."  
+        },
+        {
+            "productId":"3",
+            "productName":"God of War Ragnarök Serpent Ceramic Mug",
+            "productImg":"https://i.ibb.co/4jQZN5m/drinkable3.jpg",
+            "productPrise":"3980",
+            "productRate":"3.9",
+            "productDescription":"Enjoy any drink in this 16 oz. ceramic mug, decorated with the God of War Ragnarök serpent logo! 16 oz. Hand wash recommended"  
+        },
+        {
+            "productId":"4",
+            "productName":"PlayStation Heritage Mug",
+            "productImg":"https://i.ibb.co/SQ92P28/drinkable4.jpg",
+            "productPrise":"4700",
+            "productRate":"4.6",
+            "productDescription":"Nothing quite like waking up on those cold winter mornings, getting comfy on the couch, and sipping on a nice warm cup of coffee or hot cocoa. This PlayStation Heritage Mug is perfect for those mornings. Material: Stoneware Color: Black Size: 12oz."  
+        },
+        {
+            "productId":"5",
+            "productName":"Horizon Forbidden West Focus - Navy Mug",
+            "productImg":"https://i.ibb.co/vcysqmJ/drinkable5.jpg",
+            "productPrise":"5350",
+            "productRate":"4.3",
+            "productDescription":"There's nothing like a hot cup of coffee or tea to help you focus. This navy thermos mug features the iconic Focus device, so you can enjoy Aloy's experiences for yourself. Double-wall vacuum insulated mug comes equipped with a cork base and push-on lid. Gift box included.Holds 12oz/355mL Matte Navy Printed logos front & back"  
+        }
+    ]
+        
+
+    },
+    {    "shoppingCategoryId":4,
+         "products":[{
+            "productId":"1",
+            "productName":"PlayStation Pride 2023 T-Shirt",
+            "productImg":"https://i.ibb.co/sgtdcGc/apparel1.jpg",
+            "productPrise":"2300",
+            "productRate":"3.8",
+            "productDescription":"Experience the power of inclusivity and gaming passion with the PlayStation Pride 2023 T-Shirt! This stylish tee showcases a vibrant rainbow design inspired by the DualSense controller, symbolizing the unity of gaming and the Pride movement. Adorned with the iconic PlayStation button symbols, this t-shirt adds a touch of gaming flair to its powerful message of love and acceptance. Embrace diversity, celebrate gaming, and confidently make a bold statement with the PlayStation Pride Rainbow T-Shirt!4.3oz 100% combed ringspun cotton fine jersey Screenprinted graphic"
+        },
+        {
+            "productId":"2",
+            "productName":"Bend Studio 30th Anniversary Days Gone T-Shirt",
+            "productImg":"https://i.ibb.co/qjRjkx8/apparel2.jpg",
+            "productPrise":"2390",
+            "productRate":"4.2",
+            "productDescription":"Celebrate 30 years with Bend Studio! This officially licensed exclusive t-shirt was designed in-house at Bend Studio. The shirt features Deacon St. John on the back of a black t-shirt next to the 30th Anniversary logo all in one slick look. Represent Bend Studio with a red colorway logo stamped on the front! 4.3-ounce, 100% combed ring-spun cotton Please note: this item is available for preorder and is expected to ship in July 2023, though shipment dates are subject to change."  
+        },
+        {
+            "productId":"3",
+            "productName":"Horizon Forbidden West Horus Cove National Park T-Shirt",
+            "productImg":"https://i.ibb.co/q1rbKWb/apparel3.jpg",
+            "productPrise":"2980",
+            "productRate":"3.9",
+            "productDescription":"Mountains, seas, and colossal machines, all under the shade of a menacing Horus. Mark your time in the perilous Valley of the Fallen with this T-Shirt! 100% cotton Screenprinted graphic Unisex sizing"  
+        },
+        {
+            "productId":"4",
+            "productName":"Horizon Forbidden West Burning Shores National Park T-Shirt",
+            "productImg":"https://i.ibb.co/CH3t6BX/apparel4.jpg",
+            "productPrise":"2100",
+            "productRate":"4.6",
+            "productDescription":"Commemorate your visit to the Burning Shores, CA, with this unique t-shirt.100% cotton  Screenprinted graphic Unisex sizing"  
+        },
+        {
+            "productId":"5",
+            "productName":"The Last of Us Part I Bleached T-Shirt",
+            "productImg":"https://i.ibb.co/JFcztHG/apparel5.jpg",
+            "productPrise":"2440",
+            "productRate":"4.3",
+            "productDescription":"Stand out from the crowd with this unique speckled t-shirt, featuring The Last of Us Part I logo! 100% cotton Bleach splatter  Due to nature of bleach decoration, there may be slight variations in splatter pattern This item is available for preorder and is expected to ship in June 2023, though shipping dates are subject to change."  
+        }
+    ]
+        
+
+    }
+]

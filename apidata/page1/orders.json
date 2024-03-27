@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Aakash",
+        "email": "aakash@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 768768686,
+        "cost": 20787,
+        "orderItem": [
+            3,
+            5,
+            7
+        ]
+    },
+    {
+        "name": "Anchal",
+        "email": "anchal@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 768768686,
+        "cost": 13124,
+        "orderItem": [
+            3,
+            6
+        ]
+    },
+    {
+        "name": "Anchal",
+        "email": "anchal@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 768768686,
+        "cost": 11344,
+        "orderItem": [
+            2,
+            9
+        ]
+    },
+    {
+        "name": "Aakash",
+        "email": "aakash@gmail.com",
+        "address": "Hno 23,Sector 1",
+        "phone": 97876733,
+        "cost": 12431,
+        "menuItem": [
+            1,
+            3,
+            6
+        ]
+    }
+]

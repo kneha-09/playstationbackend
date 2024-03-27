@@ -1,0 +1,24 @@
+[
+    {
+        "categoryId":1,
+        "category":"Hardware and Discs",
+        "image":"https://i.ibb.co/t2dD9cm/PS5.png"
+    },
+    {
+        "categoryId":2,
+        "category":"Digital Games",
+        "image":"https://i.ibb.co/J3zn08M/icons8-shopping-bag-50.png" 
+    },
+    {
+        "categoryId":3,
+        "category":"Official Merchandise",
+        "image":"https://i.ibb.co/jJYk3rm/icons8-polo-shirt-50.png"
+    },
+    
+    {
+        "categoryId":4,
+        "category":"Services",
+        "image":"https://i.ibb.co/D1N3F5h/icons8-services-50.png"
+    }
+
+]
